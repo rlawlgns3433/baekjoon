@@ -134,10 +134,12 @@
     <ClCompile Include="bj17608.cpp" />
     <ClCompile Include="bj2033.cpp" />
     <ClCompile Include="bj2161.cpp" />
+    <ClCompile Include="bj2358.cpp" />
     <ClCompile Include="bj2576.cpp" />
     <ClCompile Include="bj2675.cpp" />
     <ClCompile Include="bj2747.cpp" />
     <ClCompile Include="bj2920.cpp" />
+    <ClCompile Include="bj3052.cpp" />
     <ClCompile Include="bj5532.cpp" />
     <ClCompile Include="bj5543.cpp" />
     <ClCompile Include="bj8959.cpp" />
