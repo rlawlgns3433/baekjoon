@@ -1,4 +1,6 @@
+//#define _CRT_SECURE_NO_WARNINGS
 //#include <iostream>
+//#include <stdio.h>
 //using namespace std;
 //
 //int main()
@@ -12,8 +14,7 @@
 //    }
 //    cout<< sum << endl;
 //}
-//#define _CRT_SECURE_NO_WARNINGS
-//#include <stdio.h>
+//
 //
 //void m()
 //{
