@@ -149,6 +149,7 @@
     <ClCompile Include="bj5532.cpp" />
     <ClCompile Include="bj5543.cpp" />
     <ClCompile Include="bj8959.cpp" />
+    <ClCompile Include="bj9012.cpp" />
     <ClCompile Include="bst_impl.cpp" />
     <ClCompile Include="doublelinkedlist.cpp" />
     <ClCompile Include="dynamic array.cpp" />
