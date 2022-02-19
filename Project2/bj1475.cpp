@@ -1,22 +1,21 @@
 #include <iostream>
-#include <cstring>
-#include <cmath>
-#include <string>
+#include <algorithm>
 using namespace std;
 
-int cnt[10] = { 0 };
 int main()
 {
-	string str;
-	cin >> str;
-	for (int i = 0; i < str.size(); i++) 
-		cnt[int(str[i] - '0')]++;
-	int max = 1;
-	for (int i = 0; i <= 9; i++) {
-		if (i == 6 || i == 9) {
-			if (max < ceil((double(cnt[6]) + double(cnt[9]) / double(2)))) max = ceil((double(cnt[6]) + double(cnt[9]) / double(2)));
-		}
-		else if (cnt[i] > max) max = cnt[i];
-	}
-	cout << max;
+    int arr[10] = { 0 };
+    int n;
+    cin >> n;
+    while (true) {
+        arr[n % 10]++;
+        if (n / 10 == 0) break;
+        n /= 10;
+    }
+    int set = 0;
+    for (int i = 0; i < 10; i++) {
+        if (i != 9 && i != 6)
+            set = max(set, arr[i]);
+    }
+    cout << max(set, (arr[6] + arr[9] + 1) / 2);
 }
