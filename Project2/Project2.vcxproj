@@ -128,6 +128,7 @@
     <ClCompile Include="bj1072.cpp" />
     <ClCompile Include="bj1076.cpp" />
     <ClCompile Include="bj10773.cpp" />
+    <ClCompile Include="bj10814_ordered_by_age.cpp" />
     <ClCompile Include="bj10845.cpp" />
     <ClCompile Include="bj1094cpp.cpp" />
     <ClCompile Include="bj10989.cpp" />
