@@ -9,7 +9,7 @@
 //	return a.first < b.first;
 //}
 //
-//int main()
+//void my10814()
 //{
 //	cin.tie(0); cin.sync_with_stdio(0);
 //	int n;
@@ -24,22 +24,22 @@
 //		cout << list[i].first << " " << list[i].second << endl;
 //	}
 //}
-
-#include <iostream>
-#include <map>
-#include <string>
-using namespace std;
-
-int main()
-{
-	multimap<int, string> m;
-	int n;  cin >> n;
-	for (int i = 0; i < n; i++) {
-		int age; string name;	
-		cin >> age >> name;
-		m.emplace(age, name);
-	}
-	for (pair<int, string> data : m) {
-		cout << data.first << " " << data.second << '\n';
-	}
-}
+//
+//#include <iostream>
+//#include <map>
+//#include <string>
+//using namespace std;
+//
+//int main()
+//{
+//	multimap<int, string> m;
+//	int n;  cin >> n;
+//	for (int i = 0; i < n; i++) {
+//		int age; string name;	
+//		cin >> age >> name;
+//		m.emplace(age, name);
+//	}
+//	for (pair<int, string> data : m) {
+//		cout << data.first << " " << data.second << '\n';
+//	}
+//}
