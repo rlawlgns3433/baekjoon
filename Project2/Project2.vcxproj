@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10815_number_card.cpp" />
     <ClCompile Include="binary search tree.cpp" />
     <ClCompile Include="bj1003.cpp" />
     <ClCompile Include="bj1072.cpp" />
@@ -141,12 +142,14 @@
     <ClCompile Include="bj11651_sorting_coordinates.cpp" />
     <ClCompile Include="bj11720.cpp" />
     <ClCompile Include="bj1181cpp.cpp" />
+    <ClCompile Include="bj1205_evaluate_ranking.cpp" />
     <ClCompile Include="bj1259.cpp" />
     <ClCompile Include="bj1417.cpp" />
     <ClCompile Include="bj1427.cpp" />
     <ClCompile Include="bj1463.cpp" />
     <ClCompile Include="bj1475.cpp" />
     <ClCompile Include="bj17608.cpp" />
+    <ClCompile Include="bj1764_never_been_seen_or_heard_who_is.cpp" />
     <ClCompile Include="bj1920.cpp" />
     <ClCompile Include="bj1924.cpp" />
     <ClCompile Include="bj1927.cpp" />
