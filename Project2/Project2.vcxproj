@@ -123,7 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="10815_number_card.cpp" />
+    <ClCompile Include="bj1037_divisor.cpp" />
+    <ClCompile Include="bj10815_number_card.cpp" />
     <ClCompile Include="binary search tree.cpp" />
     <ClCompile Include="bj1003.cpp" />
     <ClCompile Include="bj1072.cpp" />

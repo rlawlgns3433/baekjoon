@@ -240,7 +240,10 @@
     <ClCompile Include="bj1205_evaluate_ranking.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10815_number_card.cpp">
+    <ClCompile Include="bj10815_number_card.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bj1037_divisor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
