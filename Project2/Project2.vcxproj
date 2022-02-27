@@ -149,6 +149,7 @@
     <ClCompile Include="bj1427.cpp" />
     <ClCompile Include="bj1463.cpp" />
     <ClCompile Include="bj1475.cpp" />
+    <ClCompile Include="bj1564_factorial5.cpp" />
     <ClCompile Include="bj17608.cpp" />
     <ClCompile Include="bj1764_never_been_seen_or_heard_who_is.cpp" />
     <ClCompile Include="bj1920.cpp" />
@@ -162,6 +163,7 @@
     <ClCompile Include="bj2358.cpp" />
     <ClCompile Include="bj2576.cpp" />
     <ClCompile Include="bj2577.cpp" />
+    <ClCompile Include="bj2581_prime_number.cpp" />
     <ClCompile Include="bj2675.cpp" />
     <ClCompile Include="bj2747.cpp" />
     <ClCompile Include="bj2908.cpp" />

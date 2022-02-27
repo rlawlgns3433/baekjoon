@@ -1,40 +1,44 @@
-//#include <iostream>
-//#include <vector>
-//#include <algorithm>
-//#include <string>
-//
-//using namespace std;
-//
-//bool CompareWord(string a, string b) {
-//    if (a.length() == b.length()) {
-//        return a < b;
-//    }
-//    else {
-//        return a.length() < b.length();
-//    }
-//}
-//
-//int main() {
-//    int N;
-//    string str;
-//    vector<string> word;
-//    cin >> N;
-//    for (int i = 0; i < N; i++) {
-//        string temp;
-//        cin >> temp;
-//        word.push_back(temp);
-//    }
-//
-//    sort(word.begin(), word.end(), CompareWord);
-//
-//    for (int i = 0; i < word.size(); i++) {
-//        if (word[i] != word[i + 1]) {
-//            cout << word[i] << "\n";
-//        }
-//    }
-//    return 0;
-//}
-//
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
+using namespace std;
+
+bool compareword(string& a, string& b) {
+	if (a.length() == b.length()) {
+		return a < b;
+	}
+	return a.length() < b.length();
+}
+
+bool find(string s, vector<string> set) {
+	for (int i = 0; i < set.size(); i++) {
+		if (s == set[i]) {
+			return 1;
+		}
+	}
+	return 0;
+}
+
+int main()
+{
+	cin.tie(0); cin.sync_with_stdio(0);
+	int N;
+	cin >> N;
+	vector<string> str_vec;
+	for(int i = 0; i < N; i++){
+		string temp_str; cin >> temp_str;
+		if (find(temp_str, str_vec)) continue;
+		else str_vec.emplace_back(temp_str);
+	}
+	sort(str_vec.begin(), str_vec.end(),compareword);
+	for (auto& ele : str_vec) {
+		cout << ele << '\n';
+	}
+}
+
+
+
 //
 //#include <string>
 //#include <vector>
