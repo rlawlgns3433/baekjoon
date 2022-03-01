@@ -135,6 +135,7 @@
     <ClCompile Include="bj10866_deque.cpp" />
     <ClCompile Include="bj1094cpp.cpp" />
     <ClCompile Include="bj10989.cpp" />
+    <ClCompile Include="bj11047.cpp" />
     <ClCompile Include="bj11179.cpp" />
     <ClCompile Include="bj11279.cpp" />
     <ClCompile Include="bj1152.cpp" />
