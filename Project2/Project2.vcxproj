@@ -167,7 +167,7 @@
     <ClCompile Include="bj2577.cpp" />
     <ClCompile Include="bj2581_prime_number.cpp" />
     <ClCompile Include="bj2675.cpp" />
-    <ClCompile Include="bj2747.cpp" />
+    <ClCompile Include="bj2747_fibonacci_number.cpp" />
     <ClCompile Include="bj2908.cpp" />
     <ClCompile Include="bj2920.cpp" />
     <ClCompile Include="bj3052.cpp" />
