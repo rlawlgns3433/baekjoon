@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bj1011_Fly_me_to_the_Alpha_Centauri.cpp" />
     <ClCompile Include="bj1037_divisor.cpp" />
     <ClCompile Include="bj10815_number_card.cpp" />
     <ClCompile Include="binary search tree.cpp" />
@@ -138,12 +139,14 @@
     <ClCompile Include="bj11047.cpp" />
     <ClCompile Include="bj11179.cpp" />
     <ClCompile Include="bj11279.cpp" />
+    <ClCompile Include="bj11286_abstract_heap.cpp" />
     <ClCompile Include="bj1152.cpp" />
     <ClCompile Include="bj1157.cpp" />
     <ClCompile Include="bj11650.cpp" />
     <ClCompile Include="bj11651_sorting_coordinates.cpp" />
     <ClCompile Include="bj11720.cpp" />
     <ClCompile Include="bj1181cpp.cpp" />
+    <ClCompile Include="bj11931_sorting4.cpp" />
     <ClCompile Include="bj1205_evaluate_ranking.cpp" />
     <ClCompile Include="bj1259.cpp" />
     <ClCompile Include="bj1417.cpp" />
