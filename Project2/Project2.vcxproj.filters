@@ -267,5 +267,17 @@
     <ClCompile Include="bj11286_abstract_heap.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bj5639_bst.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bj2075_Nth_greatest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bj11659_section_sum.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -144,6 +144,7 @@
     <ClCompile Include="bj1157.cpp" />
     <ClCompile Include="bj11650.cpp" />
     <ClCompile Include="bj11651_sorting_coordinates.cpp" />
+    <ClCompile Include="bj11659_section_sum.cpp" />
     <ClCompile Include="bj11720.cpp" />
     <ClCompile Include="bj1181cpp.cpp" />
     <ClCompile Include="bj11931_sorting4.cpp" />
@@ -163,6 +164,7 @@
     <ClCompile Include="bj1929.cpp" />
     <ClCompile Include="bj1978.cpp" />
     <ClCompile Include="bj2033.cpp" />
+    <ClCompile Include="bj2075_Nth_greatest.cpp" />
     <ClCompile Include="bj2161.cpp" />
     <ClCompile Include="bj2164_card2.cpp" />
     <ClCompile Include="bj2358.cpp" />
@@ -177,6 +179,7 @@
     <ClCompile Include="bj4153.cpp" />
     <ClCompile Include="bj5532.cpp" />
     <ClCompile Include="bj5543.cpp" />
+    <ClCompile Include="bj5639_bst.cpp" />
     <ClCompile Include="bj7662_double_priority_queuecpp.cpp" />
     <ClCompile Include="bj8959.cpp" />
     <ClCompile Include="bj9012.cpp" />
@@ -207,6 +210,7 @@
     <ClCompile Include="tree traversal.cpp" />
     <ClCompile Include="quciksort.cpp" />
     <ClCompile Include="vector exam.cpp" />
+    <ClCompile Include="_test.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
