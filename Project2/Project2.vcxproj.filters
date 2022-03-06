@@ -279,5 +279,8 @@
     <ClCompile Include="bj11659_section_sum.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bj17298_bigger_than_left.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

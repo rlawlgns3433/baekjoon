@@ -155,6 +155,7 @@
     <ClCompile Include="bj1463.cpp" />
     <ClCompile Include="bj1475.cpp" />
     <ClCompile Include="bj1564_factorial5.cpp" />
+    <ClCompile Include="bj17298_bigger_than_left.cpp" />
     <ClCompile Include="bj17608.cpp" />
     <ClCompile Include="bj1764_never_been_seen_or_heard_who_is.cpp" />
     <ClCompile Include="bj1780.cpp" />
