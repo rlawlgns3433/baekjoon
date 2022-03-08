@@ -282,5 +282,8 @@
     <ClCompile Include="bj17298_bigger_than_left.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="bj18258_queue2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
