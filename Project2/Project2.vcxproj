@@ -168,6 +168,7 @@
     <ClCompile Include="bj2033.cpp" />
     <ClCompile Include="bj2075_Nth_greatest.cpp" />
     <ClCompile Include="bj2161.cpp" />
+    <ClCompile Include="bj2161_card1.cpp" />
     <ClCompile Include="bj2164_card2.cpp" />
     <ClCompile Include="bj2358.cpp" />
     <ClCompile Include="bj2576.cpp" />
