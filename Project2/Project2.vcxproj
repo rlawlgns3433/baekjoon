@@ -41,7 +41,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>true</UseDebugLibraries>
-    <PlatformToolset>v141</PlatformToolset>
+    <PlatformToolset>ClangCL</PlatformToolset>
     <CharacterSet>MultiByte</CharacterSet>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
@@ -152,6 +152,7 @@
     <ClCompile Include="bj1259.cpp" />
     <ClCompile Include="bj1417.cpp" />
     <ClCompile Include="bj1427.cpp" />
+    <ClCompile Include="bj14425_array_of_string.cpp" />
     <ClCompile Include="bj1463.cpp" />
     <ClCompile Include="bj1475.cpp" />
     <ClCompile Include="bj1564_factorial5.cpp" />
