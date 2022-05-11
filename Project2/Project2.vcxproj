@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="11399_ATM.cpp" />
     <ClCompile Include="bj1011_Fly_me_to_the_Alpha_Centauri.cpp" />
     <ClCompile Include="bj1037_divisor.cpp" />
     <ClCompile Include="bj10815_number_card.cpp" />
