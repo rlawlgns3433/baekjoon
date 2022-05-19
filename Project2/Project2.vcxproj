@@ -217,6 +217,7 @@
     <ClCompile Include="quciksort.cpp" />
     <ClCompile Include="vector exam.cpp" />
     <ClCompile Include="_test.cpp" />
+    <ClCompile Include="요세푸스 문제0.cpp" />
     <ClCompile Include="카카오2022_1번.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
