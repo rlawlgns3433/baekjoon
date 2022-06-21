@@ -5,7 +5,6 @@ using namespace std;
 
 class Room
 {
-
 public:
 	int start, finish;
 	Room() { this->start = 0; this->finish = 0; }
