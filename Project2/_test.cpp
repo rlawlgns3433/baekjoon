@@ -9,7 +9,7 @@ typedef pair<int, int> pii;
 vector<vector<int>> d_map;
 vector<bool> visited;
 vector<int> dist;
-int v, e, start, dest;
+int v, e, start;
 int INF = 1000000000;
 
 void dijkstra(int start)
@@ -39,11 +39,7 @@ void dijkstra(int start)
 				min_heap.push(make_pair(dist[dst], dst));
 			}
 		}
-		if (dist[src] == INF) cout << "INF" << endl;
-		else cout << dist[src] << endl;
 	}
-	if (dist[v] == INF) cout << "INF" << endl;
-	else cout << dist[v] << endl;
 }
 
 int main()
@@ -77,4 +73,10 @@ int main()
 	}
 	
 	dijkstra(start);
+	for (int i = 1; i <= v; i++)
+	{
+		if (dist[i] == INF) cout << "INF" << endl;
+		else cout << dist[i] << endl;
+	}
+	
 }
