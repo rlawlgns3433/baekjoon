@@ -363,5 +363,14 @@
     <ClCompile Include="보물.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="섬의 개수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 증가하는 부분 수열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="가장 긴 감소하는 부분 부열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
