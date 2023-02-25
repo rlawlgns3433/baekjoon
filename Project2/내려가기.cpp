@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -28,8 +28,8 @@ int main()
 		v[1] = max(tmp1 + b, max(tmp2 + b, tmp3 + b));
 		v[2] = max(tmp2 + c, tmp3 + c);
 		v[3] = min(tmp4, tmp5) + a;
-		v[4] = min(tmp4 , min(tmp5 , tmp6)) + b;
-		v[5] = min(tmp5 , tmp6 ) + c;
+		v[4] = min(tmp4, min(tmp5, tmp6)) + b;
+		v[5] = min(tmp5, tmp6) + c;
 	}
 
 	cout << max(v[0], max(v[1], v[2])) << ' ' << min(v[3], min(v[4], v[5]));
