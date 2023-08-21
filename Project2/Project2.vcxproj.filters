@@ -462,5 +462,8 @@
     <ClCompile Include="정수 a를 k로 만들기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="숨바꼭질4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
