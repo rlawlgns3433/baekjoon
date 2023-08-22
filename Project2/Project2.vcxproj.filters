@@ -465,5 +465,8 @@
     <ClCompile Include="숨바꼭질4.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="동전2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
