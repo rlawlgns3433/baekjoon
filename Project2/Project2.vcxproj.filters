@@ -480,5 +480,8 @@
     <ClCompile Include="두 용액.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="성적 통계.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
