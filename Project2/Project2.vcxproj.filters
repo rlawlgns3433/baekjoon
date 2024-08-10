@@ -510,5 +510,14 @@
     <ClCompile Include="학점계산프로그램.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="_test3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="_test4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="더하기 사이클.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
