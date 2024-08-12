@@ -525,5 +525,8 @@
     <ClCompile Include="접미사 배열.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="구간 합 구하기 5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
