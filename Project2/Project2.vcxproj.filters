@@ -534,5 +534,8 @@
     <ClCompile Include="직사각형 네개의 합집합의 면적 구하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="알고리즘 수업 - 깊이 우선 탐색 1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
