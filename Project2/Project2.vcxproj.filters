@@ -540,5 +540,8 @@
     <ClCompile Include="나는야 포켓몬 마스터 이다솜.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="웰컴 키트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
