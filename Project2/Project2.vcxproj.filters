@@ -549,6 +549,9 @@
     <ClCompile Include="포도주 시식.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="세탁소 사장 동혁.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
