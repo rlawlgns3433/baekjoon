@@ -576,6 +576,12 @@
     <ClCompile Include="신입 사원.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="보석 도둑.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N과 M (2).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
