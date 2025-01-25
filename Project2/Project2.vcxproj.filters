@@ -591,6 +591,9 @@
     <ClCompile Include="세로읽기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="국영수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
