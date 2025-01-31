@@ -603,6 +603,12 @@
     <ClCompile Include="수 묶기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="99 Problems.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Moderate Pace.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
