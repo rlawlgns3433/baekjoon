@@ -609,6 +609,9 @@
     <ClCompile Include="Moderate Pace.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="좌표 압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
