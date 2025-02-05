@@ -621,6 +621,9 @@
     <ClCompile Include="연속합.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="촌수 계산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
