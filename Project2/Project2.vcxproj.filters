@@ -657,6 +657,9 @@
     <ClCompile Include="다리 놓기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="회전하는 큐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
