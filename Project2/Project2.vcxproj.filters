@@ -675,6 +675,9 @@
     <ClCompile Include="점수 계산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0 만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
