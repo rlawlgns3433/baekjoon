@@ -687,6 +687,9 @@
     <ClCompile Include="수리공 항승.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="안전 영역.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
