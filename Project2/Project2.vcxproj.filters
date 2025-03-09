@@ -705,6 +705,9 @@
     <ClCompile Include="LCS.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Fly me to the Alpha Centauri.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
