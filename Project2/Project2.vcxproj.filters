@@ -753,6 +753,9 @@
     <ClCompile Include="쉬운 최단거리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이항 계수 2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
