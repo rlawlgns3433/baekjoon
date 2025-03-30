@@ -768,6 +768,9 @@
     <ClCompile Include="로또.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="과자 나눠주기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
