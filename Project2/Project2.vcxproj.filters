@@ -774,6 +774,9 @@
     <ClCompile Include="용액.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="수강신청.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="분해합.h">
